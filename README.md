@@ -1,66 +1,89 @@
-# 👋 ¡Hola! Soy Daniel
+# 👋 Hola, soy Daniel
 
-💻 Desarrollador con experiencia en **Java**, **Kotlin** y **Python**, apasionado por construir aplicaciones útiles y aprender nuevas tecnologías a través de proyectos reales.  
-📱 Disfruto especialmente del desarrollo **Android** y la creación de **herramientas en Python** para análisis y automatización.
+Desarrollador junior con formación en **DAM** y base en **electrónica**, orientado a proyectos donde se conectan **hardware, software y sistemas IoT**.
 
-> 🧩 *Aprendo construyendo*
+Me interesa especialmente trabajar en la intersección entre:
+
+* **backend**
+* **Python**
+* **Linux**
+* **dispositivos conectados**
+* **protocolos de comunicación**
+* y, a medio plazo, **ciberseguridad IoT**
+
+> Aprendo construyendo y entendiendo cómo se conectan los sistemas reales.
 
 ---
 
 ## ⚙️ Tecnologías y conocimientos
 
-### 🧠 Lenguajes principales
-- **Java** → Concurrencia, sockets, JavaFX  
-- **Kotlin** → Jetpack Compose, arquitectura MVI/MVVM, desarrollo Android  
-- **Python** → Análisis de logs, automatización, manejo de datos
+### Lenguajes
 
-### 🧩 Otros lenguajes y tecnologías
-- **HTML**, **CSS**, **SQL**  
-- Familiaridad con **Firebase**, **Git**, **GitHub**, **SQLite**
+* **Python**
+* **Java**
+* **Kotlin**
+* **C/C++** (entorno embebido / ESP32)
 
-### 🚀 En aprendizaje
-- Kotlin avanzado (Compose + buenas prácticas de arquitectura)
-- Frameworks Java (para backend o seguridad)
-- Swift (en un futuro)
+### Tecnologías y herramientas
+
+* **Linux**
+* **Git / GitHub**
+* **Docker**
+* **RabbitMQ**
+* **SQLite**
+* **JSON**
+* **PyMuPDF**
+* **PySide6**
+* **PlatformIO**
+* **Raspberry Pi**
+* **ESP32**
+
+### Áreas que estoy desarrollando
+
+* Backend con Python
+* Sistemas IoT
+* Integración hardware-software
+* Protocolos como **I2C**
+* Análisis de documentación técnica
+* Seguridad IoT
 
 ---
 
-## 💼 Enfoque y objetivos
+## 💼 Enfoque actual
 
-Actualmente me enfoco en:
-- El desarrollo **Android** con **Jetpack Compose**  
-- La creación de **herramientas en Python** para análisis de datos y seguridad  
-- La exploración del campo de la **ciberseguridad**, especialmente la **seguridad móvil**
+Actualmente estoy orientando mi perfil hacia el desarrollo de soluciones donde se unan:
 
-🎯 **Objetivos a corto plazo**
-- Terminar mis prácticas profesionales  
-- Mejorar mi nivel de inglés  
-- Seguir desarrollando mis proyectos personales y aprender cada día algo nuevo  
+* dispositivos
+* comunicación
+* backend
+* análisis técnico
+* y seguridad aplicada a IoT
+
+Mi objetivo es crecer en proyectos reales donde pueda aportar tanto mi base en electrónica como mi formación en desarrollo.
 
 ---
 
 ## 🧪 Proyectos destacados
 
-### 📘 AyudaFilosófica
-Aplicación Android desarrollada con **Kotlin** y arquitectura **MVI**, que combina interacción con el usuario e ideas filosóficas.  
-Actualmente en desarrollo, me está ayudando a profundizar en **estado unidireccional**, **corutinas** y **arquitectura moderna** en Compose.
+### Sistema de Telemetría IoT
 
-*(Más proyectos en camino...)*
+Proyecto de telemetría para un vehículo simulado usando **Raspberry Pi**, sensores físicos, **RabbitMQ**, **JSON** y backend para procesar eventos en tiempo real.
+
+### ESP32 I2C Register Detective
+
+Proyecto con **ESP32**, **MPU6050** y **LCD1602**, implementando comunicación **I2C a nivel de registros** y resolviendo problemas reales de sincronización y depuración hardware/software.
 
 ---
 
 ## 🧠 Filosofía de trabajo
 
-> “**Aprendo construyendo**”  
-> Creo que la mejor forma de aprender desarrollo y seguridad es a través de proyectos prácticos, explorando ideas y resolviendo problemas reales.
+Creo que la mejor forma de aprender tecnología es construir proyectos reales, equivocarse, entender por qué fallan y mejorar a partir de ahí.
 
 ---
 
 ## 📫 Contacto
 
-💼 https://www.linkedin.com/in/daniel-santill%C3%A1n-tib%C3%A1n-4b9a90159/
+💼  LinkedIn: https://www.linkedin.com/in/daniel-santill%C3%A1n-tib%C3%A1n-4b9a90159/
 
 ---
 
-### ⚡ Gracias por visitar mi perfil
-Si te interesa hablar sobre desarrollo Android, Python o ciberseguridad, ¡no dudes en escribirme!
