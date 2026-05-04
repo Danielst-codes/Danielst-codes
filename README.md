@@ -1,6 +1,6 @@
 # 👋 Hola, soy Daniel
 
-Desarrollador junior con formación en **DAM** y base en **electrónica**, orientado a proyectos donde se conectan **hardware, software y sistemas IoT**.
+Desarrollador junior con formación en **DAM** y base en **electrónica** y **mantenimiento de vehiculos**, orientado a proyectos donde se conectan **hardware, software y sistemas IoT**.
 
 Me interesa especialmente trabajar en la intersección entre:
 
